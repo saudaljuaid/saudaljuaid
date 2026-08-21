@@ -8,3 +8,6 @@
 ## Pyrenis
 
 Building an independent x86-64 operating system from scratch.
+
+## Capiche
+Translator of Windows applications for Pyrenis.
